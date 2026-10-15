@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pypa/linehaul/commit/cc9908824b018d555e9eb54f14eb743fa6274b09",
       "git:hexsha": "cc9908824b018d555e9eb54f14eb743fa6274b09",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
